@@ -33,14 +33,9 @@ Backups of GDTs will be placed in ***<dupe_fixer_folder>/backup***.
 **FLAGS**
 You can make shortcuts to the exe or run it from the command line with the following flags:
 
-**debug** or **show_flags** - Shows the settings for these flags defined below on start EXE.
-
-**no_preserve_stock** or **nps** - Doesn't take into account stock GDT's and will replace them if they appear first (alpha style purge)
-
 **no_log** or **quiet** or **shh** - Doesn't print the progress it's making, just tells you when it's done.
 
 **developer_no_backup_use_wisely** - Doesn't backup the GDT that gets edited. I DO NOT RECOMMEND USING THIS, EVER.
-
 
 
 
