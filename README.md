@@ -2,7 +2,8 @@
 The latest version of GDTDupePurger for Python.
 A one-file script that takes duplicate asset errors from Black Ops 3 Mod Tools' linker output and attempt to resolve them.
 
-### This version of GDTDupePurger is the currently supported version of GDTDupePurger. For those using the old version, it's recommended you update to this version as soon as possible.
+### This version of GDTDupePurger is the currently supported version of GDTDupePurger, and accounts for MidgetBlasters T7 Asset Pack.
+### For those using the old version, it's recommended you update to this version as soon as possible.
 
 
 How to use:
@@ -41,7 +42,7 @@ You can make shortcuts to the exe or run it from the command line with the follo
 
 **NOTE**
 
-v.1.0b only deletes a single duplicate for each asset.
+v.1.0c only deletes a single duplicate for each asset.
 If you have multiple duplicates of one asset, you will need to try compiling in MT after running **dupe_fixer.exe** to get the updated error list, and repeat as many times as necessary.
 This will be fixed on full release.
 
