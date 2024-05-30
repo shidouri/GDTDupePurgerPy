@@ -38,13 +38,13 @@ You can make shortcuts to the exe or run it from the command line with the follo
 
 **developer_no_backup_use_wisely** - Doesn't backup the GDT that gets edited. I DO NOT RECOMMEND USING THIS, EVER.
 
-**SOURCE USERS**
+###SOURCE USERS###
 For people using the source code instead of the built EXE and want to run this script with Python via the Command Prompt / Powershell:
 Please make sure to change directory to the dupe_fixer.py folder, otherwise the script will try checking the CMD / PS instance path instead of the dupe_fixer relative path.
 Thanks to Gmrh for catching this :D
 
 
-**NOTE**
+###NOTE###
 
 v.1.0c only deletes a single duplicate for each asset.
 If you have multiple duplicates of one asset, you will need to try compiling in MT after running **dupe_fixer.exe** to get the updated error list, and repeat as many times as necessary.
